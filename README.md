@@ -1,3 +1,8 @@
+# map-components-react-test
+
+A clean `@arcgis/map-components-react` demo in a Vite + React + TS template, following these steps: [https://developers.arcgis.com/javascript/latest/get-started-react/](https://developers.arcgis.com/javascript/latest/get-started-react/)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
